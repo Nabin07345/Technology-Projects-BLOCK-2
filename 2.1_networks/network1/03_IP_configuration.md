@@ -13,3 +13,4 @@
 ```
 images/ip-config-pc0.png
 ```
+IP Configuration: <img width="872" height="843" alt="Screenshot 2026-10-30 172154" src="https://github.com/user-attachments/assets/a2b3c8df-5153-421f-8761-b46cbfe76482" />
