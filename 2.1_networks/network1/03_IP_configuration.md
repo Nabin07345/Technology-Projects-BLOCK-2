@@ -21,4 +21,5 @@ PC2: <img width="868" height="885" alt="Screenshot 2026-11-01 035800" src="https
 
 PC3: <img width="901" height="872" alt="Screenshot 2026-11-01 035814" src="https://github.com/user-attachments/assets/034d60df-63d9-41cf-b7e4-127c544490b6" />
 
-PC4: <img width="920" height="965" alt="Screenshot 2026-11-01 035825" src="https://github.com/user-attachments/assets/74d4e74a-e70a-4da3-aa05-d1fdd78dffc5" />
+PC4:<img width="920" height="965" alt="Screenshot 2026-11-01 035825" src="https://github.com/user-attachments/assets/dc59617d-8829-4b66-8e6e-cf3dde20f4f5" />
+
