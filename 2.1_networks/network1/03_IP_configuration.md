@@ -13,7 +13,3 @@
 ```
 images/ip-config-pc0.png
 ``
-PC0:C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-11-01 035727.png
-
-
-
