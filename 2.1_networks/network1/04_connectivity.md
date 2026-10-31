@@ -1,7 +1,9 @@
 ## 📡 4. Connectivity Testing
 
 ### 4.1 Ping Test Screenshot(s)
-```<img width="872" height="843" alt="image" src="https://github.com/user-attachments/assets/f8b8910f-7a51-42bb-bec4-def5774a3f44" />
+```
+<img width="872" height="843" alt="Screenshot 2026-10-30 172154" src="https://github.com/user-attachments/assets/f42875ce-42b0-49a3-8655-a9058fd1a0ff" />
+
 
 images/ping-pc0.png
 ```
